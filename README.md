@@ -1,0 +1,2 @@
+# AI-lecture
+object detection
